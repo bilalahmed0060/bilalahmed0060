@@ -14,5 +14,4 @@ Software developer in Göttingen, Germany. I build Python services with FastAPI 
 Python · FastAPI · Django · PostgreSQL · Redis · RabbitMQ · Docker · Nginx · AWS · pytest
 
 ## Find me
-[LinkedIn](https://linkedin.com/in/bilalahmed0060) · [Portfolio](https://bilalahmed0060.vercel.app)<!--
-**bilalahmed0060/bilalahmed0060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://linkedin.com/in/bilalahmed0060) · [Portfolio](https://bilalahmed0060.vercel.app) is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
